@@ -1,0 +1,1 @@
+java -jar target/Case_study2-1.0-SNAPSHOT.jar

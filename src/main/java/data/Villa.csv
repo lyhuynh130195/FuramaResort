@@ -1,0 +1,4 @@
+rate,description,poolArea,numberFloors,name,usableArea,rentalCost,maxNumberPeople,rentalType,id
+Cao,Day du,4,100,Vilaabc,1000,10000.0,5,Day,SVVL-1234
+Caocap,Day du,6,130,Vilaxyz,2000,10000.0,6,Month,SVVL-1256
+Tot,Day du,10,100,Vilaa dasd,100,1000.0,10,Day,SVVL-1234

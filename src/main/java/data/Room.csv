@@ -1,0 +1,5 @@
+freeServicesIncluded,name,usableArea,rentalCost,maxNumberPeople,rentalType,id
+karaoke,Rommabc,100,100.0,2,Day,SVRO-1032
+karaoke,Room abc,100,1000000.0,10,Month,SVRO-1234
+karaoke,Room dsad,3123,321312.0,2,Day,SVRO-4324
+karaoke,Room dsdsa,1000,10000.0,10,Day,SVRO-3333
